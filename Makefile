@@ -1,6 +1,4 @@
-#<Mostafa Mahtab, G01468551
-#CS 262, Lab section 208
-#Lab 9
+
 
 CC = gcc
 CLFAGS = -g -Wall
