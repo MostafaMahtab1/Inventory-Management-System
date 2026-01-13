@@ -1,12 +1,10 @@
 /*
-Mostafa Mahtab, G01468551
-CS 262, Lab section 208
-Lab9: Dynamic Memory, Structures and Arrays
+
 
 *** New features ***
 
-1. Now you can see how much space left before the database is resized.
-2. Now you can remove an item from the database without modifying it.
+1. You can see how much space left before the database is resized.
+2. Yow can remove an item from the database without modifying it.
 
 */
 #include <stdio.h>
